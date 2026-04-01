@@ -5,6 +5,7 @@ scikit-learn
 plotly
 joblib
 matplotlib
+shap
 
 # Optionnel (pour features avancées futures)
 # streamlit-authenticator==0.2.3
